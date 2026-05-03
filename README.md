@@ -7,18 +7,18 @@ The main goal of this project is to simplify the development process by providin
 Modern assistants integrate directly into workflows and allow developers to interact with code using natural language
 
 ## Features
-AI-powered code generation
-Context-aware responses
-Debugging and error assistance
-Code explanation and summarization
-Improves developer productivity
-Interactive query-based coding support
+-- AI-powered code generation
+-- Context-aware responses
+-- Debugging and error assistance
+-- Code explanation and summarization
+-- Improves developer productivity
+-- Interactive query-based coding support
 
 ## Tech Stack
-Python
-LLM APIs (Groq / local models)
-LangChain 
-Streamlit 
+-- Python
+-- LLM APIs (Groq / local models)
+-- LangChain 
+-- Streamlit 
 
 ## How It Works
 User provides a query 
